@@ -1,0 +1,144 @@
+header{
+    margin: 0px;
+    background-color: rgb(173, 223, 255);
+    background-image: url(/Assests/bg-hero-desktop.svg);
+    width: 100%;
+    height: 500px;
+}
+#log{
+    width: 150px;
+    margin-top: 20px;
+}
+#i1{
+    margin-left: 1000px;
+    width: 190px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+#i1:hover{
+    border: 1px rgba(0, 0, 0, 0.356) solid;
+}
+.tex{
+    width: 400px;
+    margin-left: 25px;
+}
+#head{
+    font-size: 32px;
+    font-weight:bold;
+}
+#back{
+    width: 500px;
+    position: absolute;
+    right: 50px;
+    top: 100px;
+}
+#i2{
+    margin-left: 25px;
+    width: 180px;
+    height: 32px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(202, 74, 202);
+    color: white;
+    cursor: pointer;
+}
+#i2:hover{
+    background-color: rgb(218, 103, 218);
+}
+#head2{
+    font-size: 24px;
+    font-weight: bold;
+    position: absolute;
+    top: 590px;
+}
+#m1{
+    width: 500px;
+}
+.tex2{
+    margin-left: 75px;
+}
+#back2{
+    width: 400px;
+    position: absolute;
+    right: 50px;
+}
+#bod{
+    position: absolute;
+    top: 650px;
+    width: 400px;
+}
+#m2{
+    width: 500px;
+}
+#back3{
+    width: 400px;
+    position: absolute;
+    top: 950px;
+}
+#tex3{
+    position: absolute;
+    top: 1000px;
+}
+#head3{
+    font-size: 24px;
+    font-weight: bold;
+    position: absolute;
+    top: 1000px;
+    left: 620px;
+}
+#t1{
+    position: absolute;
+    top: 1100px;
+    left: 620px;
+    width: 500px;
+}
+#m3{
+    width: 500px;
+}
+#head4{
+    font-size: 24px;
+    font-weight: bold;
+    position: absolute;
+    top: 1310px;
+    left: 200px;
+}
+#back4{
+    width: 400px;
+    position: absolute;
+    top: 1350px;
+    right: 50px;
+}
+#t2{
+    position: absolute;
+    top: 1400px;
+    left: 200px;
+    width: 500px;
+}
+#f1{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: peru;
+    width: 500px;
+    height: 150px;
+}
+footer{
+    width: 100%;
+    height: 500px;
+    /* background-color: black; */
+    position: absolute;
+    top: 1800px;
+}
+#fot{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+#img{
+    width: 130px;
+}
+.img1{
+    width: 15px;
+}
+
